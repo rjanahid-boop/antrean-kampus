@@ -1,0 +1,17 @@
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+id_rsa
+id_ed25519
+__pycache__/
+*.py[cod]
+.venv/
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.log
+logs/
+data/
