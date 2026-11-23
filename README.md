@@ -13,7 +13,7 @@ Aplikasi web sederhana untuk mengelola antrean layanan kampus. Pada tahap ini, p
 | Raudatul Janah | 240131197 | @rjanahid-boop | Ketua Tim |
 | Renitayani     | 240131102 |                | Anggota   |
 | Muhammad Rifky | 240131076 |                | Anggota   |
-| Muhammad Rafly | 240131072 |                | Anggota   |
+| Muhammad Rafly | 240131072 | Fly39          | Anggota   |
 
 ## Cara Menjalankan
 Belum tersedia (akan diisi pada pertemuan berikutnya).
