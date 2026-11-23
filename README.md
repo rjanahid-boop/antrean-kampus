@@ -11,7 +11,7 @@ Aplikasi web sederhana untuk mengelola antrean layanan kampus. Pada tahap ini, p
 | Nama | NIM | Akun GitHub | Peran |
 | :--- | :--- | :--- | :--- |
 | Raudatul Janah | 240131197 | @rjanahid-boop | Ketua Tim |
-| Renitayani     | 240131102 | @renita-nyar  | Anggota   |
+| Renitayani     | 240131102 | @renita-nyar   | Anggota   |
 | Muhammad Rifky | 240131076 | @biiru-dv      | Anggota   |
 | Muhammad Rafly | 240131072 | @Fly39         | Anggota   |
 
